@@ -8,7 +8,7 @@ The dataset contains 9
 
 ## Approach
 * Data Location
-  The dataset used in this project was sourced from data world https://query.data.world/s/m2wnzatrj42x7273fndqnc26kgzryh?dws=00000
+  The dataset used in this project was sourced from data world https://data.world/2918diy/global-superstore
 
 
 ## Tools & Technologies Used
